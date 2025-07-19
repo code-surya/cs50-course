@@ -26,28 +26,6 @@ Welcome to my CS50x journey! This repository contains all my solutions and work 
 - ✅ [Scrabble](./week_2/scrabble/)
   - A program that simulates a basic Scrabble game and determines the winner based on word scores.
 
----
-
-## 📂 Folder Structure
-
-cs50/
-│
-├── week_1/
-│ ├── credit/
-│ └── ...
-│
-├── week_2/
-│ ├── readability/
-│ └── scrabble/
-│
-└── README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## 🛠️ Technologies Used
 - Language: **C**
 - Editor: CS50 IDE / GitHub Codespaces
